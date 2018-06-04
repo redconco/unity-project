@@ -7,7 +7,8 @@ public class Player : MonoBehaviour {
 	int hp;
 	int speed;
 	int moveX;
-
+	int power;
+	
 	// Use this for initialization
 	void Start () {
 		hp = 1000;
